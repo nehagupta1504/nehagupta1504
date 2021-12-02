@@ -4,6 +4,7 @@
 **nehagupta1504/nehagupta1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![back ground neha](https://user-images.githubusercontent.com/66299920/144463239-25ee7638-c580-4e89-880a-d195eb86e19f.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
