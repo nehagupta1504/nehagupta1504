@@ -7,10 +7,10 @@
  I am in love with how from small things we can build something huge, something irresistible. We developers have created a whole new world👁 out there!!
   </h3>
 <h3>
-Check my quora space:
+Check out my Medium:
 
 </h3>
- <a href="https://candd.quora.com/" target="blank" >
+ <a href="https://medium.com/dev-simplified" target="blank" >
     <img alt="Neha's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
 
