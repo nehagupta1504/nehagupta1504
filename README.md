@@ -11,7 +11,7 @@ Check out my Medium:
 
 </h3>
  <a href="https://medium.com/dev-simplified" target="blank" >
-    <img alt="Neha's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
+    <img alt="Neha's Quora" height="30" width="30" src="https://www.svgrepo.com/show/354057/medium-icon.svg" />
 </a>
 
 <h3>Connect with me:</h3>
