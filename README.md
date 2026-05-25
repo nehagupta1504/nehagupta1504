@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Dev Simplified Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+LLMs+%7C+Agents+%7C+ML;Python+%7C+FastAPI+%7C+Flask+%7C+Django;Making+Complex+Things+Simple+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=JavaScript+%7C+React+%7C+Next.js;React+Native+%7C+Node.js+%7C+MongoDB;AI+%7C+OpenAI+%7C+Prompt+Engineering;AWS+%7C+DevOps+%7C+Full+Stack;Building+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
