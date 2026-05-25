@@ -18,9 +18,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/nehagupta1504"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nehagupta1504/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@NehaGuptaCareerCoach"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://topmate.io/nehagupta1504/"><img src="https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logo=Topmate&logoColor=white"/></a>
-  <a href="https://medium.com/dev-simplified"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://github.com/nehagupta1504" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nehagupta1504/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@NehaGuptaCareerCoach" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://topmate.io/nehagupta1504/" target="_blank"><img src="https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logo=Topmate&logoColor=white"/></a>
+  <a href="https://medium.com/dev-simplified" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
